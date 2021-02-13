@@ -1,0 +1,5 @@
+To jest pierwsza wiadomość.
+To jest druga wiadomość.
+To jest trzecia wiadomość.
+To jest ostatnia wiadomość.
+Masz nieskończenie wiele linii z wiadomościami.
